@@ -42,10 +42,10 @@
 				<prop key="shopizer.googlemaps_key">AIzaSyB9NBFBiHKJ00SpVlRB495bTktcJE3iwNA</prop>
 				<!-- #https://www.google.com/recaptcha/admin/create -->
 				<!-- to be used with localhost -->
-				<prop key="shopizer.recapatcha_public_key">6Le3DiUUAAAAAGECVhc4zwFewu8bG-6etonJNTvD</prop>
-				<prop key="shopizer.recapatcha_private_key">6Le3DiUUAAAAAPUUz_JVqujTLRITPzbIR85khz6W</prop>
+				<prop key="shopizer.recapatcha_public_key">6LfgRloUAAAAAH_341RdGgJlfzpdYBp3abIgEr6S</prop>
+				<prop key="shopizer.recapatcha_private_key">6LfgRloUAAAAAKmnPuL3jGSX2SJSVsME380r-DFA</prop>
 				<prop key="shopizer.recapatcha_url"><![CDATA[https://www.google.com/recaptcha/api/siteverify]]></prop>
-				
+
 				<!-- express checkout url -->
 				<prop key="PAYPAL_EXPRESSCHECKOUT_SANDBOX"><![CDATA[https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=]]></prop>
 				<prop key="PAYPAL_EXPRESSCHECKOUT_PRODUCTION"><![CDATA[https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=]]></prop>
